@@ -40,4 +40,5 @@ This website has been built using:
 - [Google Fonts](https://fonts.google.com/) - fonts used
 - [Code Anywhere](https://codeanywhere.com/) - online code editor
 - [GitHub](https://github.com/) - to store code and temporary publishing
+- [Figma](https://www.figma.com/) - wireframe and early project development stage
 - [Calendly](https://calendly.com/) - used to arrange bookings
