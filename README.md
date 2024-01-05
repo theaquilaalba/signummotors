@@ -1,39 +1,43 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Milestone Project 1
 
-Welcome,
+This is a website created for Signum Motors, business dealing with repair and restoration of vehicles. Part of this website will be informational, explaining the type of services offered and location, opening times, etc. The other part of this website will be dedicated to help in navigation through their YouTube channel - kind of an organised list of contents, more organised than on YouTube directly, at least.
 
-This is the Code Institute student template for Codeanywhere. If you are using Gitpod then you need [this template](https://github.com/Code-Institute-Org/gitpod-full-template) instead.  We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+## Landing page
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **August 30th, 2023**
+Here we will see intial information about the business with some graphics showing past and current projects. The page design is responding to the user device's resolution, to present the information in a readable and easily accessible manner.
 
-## Codeanywhere Reminders
+## Navigation
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+The navigation menu is provided on the right hand side, it is device responsive, so will alter the displayed page depending on the user device's resolution. It will help to provide user with the best possible user experience and make it easy to access information and navigate through the website content.
 
-`python3 -m http.server`
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+- Home - this will bring you back to the landing page
+- Vehicles - here you will learn more about services the company is offering
+- Fabrication - page dedicated custom fabrication and bespoke structures build by the company (might not be included in MVP version)
+- YouTube - this part will help you find relevant content on company's YouTube channel
+- Gallery - this will let you browse past, current and future projects
+- Booking - here you can book a slot for service or assessment using our online form - with help of Calendly (again, time permitting, might not appear in the MVP version)
+- Contact - company contact details and opening times
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+## Footer
 
-`http_server`
+Here you can find links to social platforms, legal info, etc.
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+## Known bugs
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+None, so far.
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+## Site validation
 
-To log into the Heroku toolbelt CLI:
+This site will be validated using official W3C validator and official CSS validator.
 
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+## Credits
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+This website has been built using:
 
----
-
-Happy coding!
+- [Bootstrap](https://www.bootstrapcdn.com/) - framework
+- [Font Awesome](https://fontawesome.com/) - icons
+- [Google Fonts](https://fonts.google.com/) - fonts used
+- [Code Anywhere](https://codeanywhere.com/) - online code editor
+- [GitHub](https://github.com/) - to store code and temporary publishing
+- [Calendly](https://calendly.com/) - used to arrange bookings
