@@ -1,4 +1,4 @@
-# Milestone Project 1
+# Signum Motors
 
 This is a website created for Signum Motors, business dealing with repair and restoration of vehicles. Part of this website will be informational, explaining the type of services offered and location, opening times, etc. The other part of this website will be dedicated to help in navigation through their YouTube channel - kind of an organised list of contents, more organised than on YouTube directly, at least.
 
